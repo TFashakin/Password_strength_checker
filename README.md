@@ -1,4 +1,5 @@
 # Password Strength Checker
+(Work in progress)
 
 This is a simple password strength checker tool that evaluates the strength of a password based on the following criteria:
 - Minimum length of 8 characters
