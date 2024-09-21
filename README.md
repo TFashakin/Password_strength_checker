@@ -5,7 +5,7 @@ This is a simple password strength checker tool that evaluates the strength of a
 - Contains both uppercase and lowercase letters
 - Includes at least one digit
 - Has special characters (e.g., @$!%*?&#)
-- Avoids common passwords (e.g., "password", "123456")
+- Avoids the 30 most common passwords in a list provided by Nordvpn (e.g., "password", "123456")
 
 ## How to Use
 
